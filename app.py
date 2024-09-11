@@ -10,7 +10,7 @@ import openai
 # Configuración de la página
 st.set_page_config(
     page_title="JusTicIA",
-    page_icon="🤖⚖️",
+    page_icon="🤖",
     layout="wide",
     menu_items={
         'Get Help': 'https://marduk.pro',

@@ -3,7 +3,7 @@
 # JusTicIA: Transformando la Justicia Colombiana con Inteligencia Artificial Ética 🤖⚖️
 
 ## Descripción
-JusticiaIA es un agente de IA especializado en la transformación digital del sistema judicial colombiano y la aplicación ética de la inteligencia artificial en este ámbito. 
+JusTicIA es un agente de IA especializado en la transformación digital del sistema judicial colombiano y la aplicación ética de la inteligencia artificial en este ámbito. Este proyecto se enfoca en proporcionar información sobre cómo la IA está modernizando la justicia colombiana, los beneficios y desafíos de su implementación, proyectos e iniciativas de IA, consideraciones éticas y legales, y el futuro de la IA en el sistema judicial.
 
 ## Funcionalidades
 * Explica cómo la IA está modernizando la justicia colombiana

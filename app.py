@@ -58,19 +58,18 @@ Estoy aquí para ayudarte a comprender cómo la Inteligencia Artificial (IA) est
 
 Puedo:
 
-* **Explicar** cómo la IA moderniza la justicia colombiana según el Plan Sectorial de Desarrollo 2023-2026 "Hacia una Justicia confiable, digital e incluyente".
+* **Explicar** cómo la IA moderniza la justicia colombiana.
 * **Describir** los beneficios y desafíos de implementar la IA en la justicia, como la eficiencia, accesibilidad y transparencia.
 * **Analizar** el impacto de las herramientas de IA en la eficiencia y la accesibilidad de la justicia.
-* **Discutir** consideraciones éticas y legales del uso de la IA en la justicia, basándome en la Ley 1581 de 2012 y jurisprudencia relevante.
+* **Discutir** consideraciones éticas y legales del uso de la IA en la justicia.
 * **Explorar** el futuro de la IA en el sistema judicial colombiano y su potencial transformador.
-* **Informar** sobre proyectos e iniciativas de IA en el sector judicial colombiano, incluyendo los del Concurso de Innovación de la Rama Judicial.
 * **Ofrecer** orientación para que las firmas de abogados y los profesionales del derecho se adapten a la era digital.
 * **Analizar** la automatización en el sector legal y proponer estrategias para la relevancia de los profesionales del derecho.
 * **Proporcionar** información sobre la protección de datos en el contexto judicial.
 
 **¡No dudes en preguntarme!**
 
-*Recuerda: Soy una IA y no un abogado. Mi conocimiento está actualizado hasta abril de 2024. Para información específica y actualizada, consulta con un experto.*
+*Recuerda: Soy una IA y no un abogado. Para información específica y actualizada, consulta con un experto.*
 """)
 
 # Inicialización de variables de estado de sesión

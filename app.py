@@ -50,21 +50,27 @@ client = openai
 st.title("Bienvenido a JusTicIA 🤖⚖️")
 
 st.markdown("""
-### 🤖 ¡Hola! Soy JusTicIA, tu guía en la transformación digital de la justicia colombiana
+### 🤖 ¡Hola! Soy JusTicIA, tu agente de IA para la justicia colombiana!
 
-Estoy aquí para brindarte información sobre cómo la Inteligencia Artificial (IA) está revolucionando el sistema judicial en Colombia.
+Estoy aquí para ayudarte a comprender cómo la Inteligencia Artificial (IA) está transformando el sistema judicial en Colombia. 
 
-#### ¿Qué puedo hacer por ti hoy? 🤔
+#### ¿Qué te gustaría saber sobre la IA en la justicia? 🤔
 
-* Explicarte cómo la IA se está utilizando para modernizar la justicia.
-* Describir los beneficios y desafíos de implementar la IA en el sistema judicial.
-* Analizar el impacto de herramientas de IA en la eficiencia y accesibilidad de la justicia.
-* Discutir consideraciones éticas y legales relacionadas con el uso de la IA en la justicia.
-* Explorar el futuro de la IA en el sistema judicial colombiano y su potencial transformador.
+Puedo:
 
-**¡No dudes en preguntarme cualquier cosa sobre la IA y su papel en la justicia colombiana!**
+* **Explicar** cómo la IA moderniza la justicia colombiana según el Plan Sectorial de Desarrollo 2023-2026 "Hacia una Justicia confiable, digital e incluyente".
+* **Describir** los beneficios y desafíos de implementar la IA en la justicia, como la eficiencia, accesibilidad y transparencia.
+* **Analizar** el impacto de las herramientas de IA en la eficiencia y la accesibilidad de la justicia.
+* **Discutir** consideraciones éticas y legales del uso de la IA en la justicia, basándome en la Ley 1581 de 2012 y jurisprudencia relevante.
+* **Explorar** el futuro de la IA en el sistema judicial colombiano y su potencial transformador.
+* **Informar** sobre proyectos e iniciativas de IA en el sector judicial colombiano, incluyendo los del Concurso de Innovación de la Rama Judicial.
+* **Ofrecer** orientación para que las firmas de abogados y los profesionales del derecho se adapten a la era digital.
+* **Analizar** la automatización en el sector legal y proponer estrategias para la relevancia de los profesionales del derecho.
+* **Proporcionar** información sobre la protección de datos en el contexto judicial.
 
-*Recuerda: Proporciono información basada en mi conocimiento actual. Para asesoramiento legal o técnico específico, consulta a un experto.*
+**¡No dudes en preguntarme!**
+
+*Recuerda: Soy una IA y no un abogado. Mi conocimiento está actualizado hasta abril de 2024. Para información específica y actualizada, consulta con un experto.*
 """)
 
 # Inicialización de variables de estado de sesión
